@@ -47,6 +47,10 @@ body {
   animation-delay: 0.4s;
 }
 
+.navbar {
+  width: 45%;
+}
+
 .navbar a {
   font-size: 18px;
   color: #ededed;
