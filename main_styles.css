@@ -463,8 +463,8 @@ footer {
   padding: 10px;
   height: 100px;
   width: 1470px;
-  position: absolute; /* Позиционирование абсолютно относительно родительского элемента */
-  bottom: 0; /* Прикрепление футера к нижней границе родительского элемента */
+  position: absolute; 
+  bottom: 0; 
   left: 0;
    border-top: 2px solid #fff
 
